@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["project_root",""],["run_clippy",""],["run_fuzzer",""],["run_rustfmt",""]],"mod":[["codegen","We use code generation heavily in rust-analyzer."],["install","Installs rust-analyzer language server and/or editor plugin."],["pre_commit","pre-commit hook for code formatting."]],"type":[["Result","`Result<T, Error>`"]]});
